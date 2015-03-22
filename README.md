@@ -23,28 +23,28 @@ SubjectID
  The ID of each test subject from 1 to 30
  
 tBodyAcc.mean...X
-  Mean Body Acceleration in the X direction for Test Subjects
+          Mean Body Acceleration in the X direction for Test Subjects
   
 tbodyAcc.mean...Y
-  Mean Body Acceleration in the Y direction for Test Subjects
+         Mean Body Acceleration in the Y direction for Test Subjects
   
 tbodyAcc.mean...Z
-  Mean Body Acceleration in the Z direction for Test Subjects
+         Mean Body Acceleration in the Z direction for Test Subjects
   
 tGravityAcc.mean...X
-  Mean Gravity Acceleration in the X direction for Test Subjects
+         Mean Gravity Acceleration in the X direction for Test Subjects
   
   
 tGravityAcc.mean...Y
 
 
-  Mean Gravity Acceleration in the Y direction for Test Subjects
+          Mean Gravity Acceleration in the Y direction for Test Subjects
   
   
 tGravityAcc.mean...Z
 
 
-  Mean Gravity Acceleration in the Z direction for Test Subjects
+         Mean Gravity Acceleration in the Z direction for Test Subjects
   
   
 tBodyAccJerk.mean...X
