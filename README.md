@@ -10,16 +10,16 @@
 *The final table is then reutrned.
 
 # Code Book
-*Activity Labels
+###Activity Labels
 *  The Activity the test subject was doing when being monitored
-*    Laying
-*    Sitting
-*    Standing
-*    Walking
-*    Walking_Downstairs
-*    Walking_Upstairs
-*SubjectID
-*  The ID of each test subject from 1 to 30
+    *Laying
+    *Sitting
+    *Standing
+    *Walking
+    *Walking_Downstairs
+    *Walking_Upstairs
+###SubjectID
+  *The ID of each test subject from 1 to 30
 *tBodyAcc.mean...X
 *  Mean Body Acceleration in the X direction for Test Subjects
 *tbodyAcc.mean...Y
