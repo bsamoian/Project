@@ -18,5 +18,5 @@ MergedData$ActivityLabels[MergedData$ActivityLabels == "3"] <- "Walking_Downstai
 MergedData$ActivityLabels[MergedData$ActivityLabels == "4"] <- "Sitting"
 MergedData$ActivityLabels[MergedData$ActivityLabels == "5"] <- "Standing"
 MergedData$ActivityLabels[MergedData$ActivityLabels == "6"] <- "Laying"
-MergedData
 TidyData<-ddply(MergedData, .(ActivityLabels), numcolwise(mean))
+TidyData
