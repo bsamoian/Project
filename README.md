@@ -12,12 +12,12 @@ The final table is then reutrned.
 # Code Book
 Activity Labels
   The Activity the test subject was doing when being monitored
-   *Laying
-   *Sitting
-   *Standing
-   *Walking
-   *Walking_Downstairs
-   *Walking_Upstairs
+   -Laying
+   -Sitting
+   -Standing
+   -Walking
+   -Walking_Downstairs
+   -Walking_Upstairs
 '''
 SubjectID
  The ID of each test subject from 1 to 30
