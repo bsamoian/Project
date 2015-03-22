@@ -8,24 +8,29 @@ All the Test data is combined using cbind, then the Train data.
 These two data sets are then merged.
 Then the ActivityLabel numbers are replaced by what each number means.
 The final table is then reutrned.
-
+'''
 # Code Book
 Activity Labels
   The Activity the test subject was doing when being monitored
-   *Laying
-   *Sitting
-   *Standing
-   *Walking
-   *Walking_Downstairs
-   *Walking_Upstairs
+   Laying
+   Sitting
+   Standing
+   Walking
+   Walking_Downstairs
+   Walking_Upstairs
+   
 SubjectID
  The ID of each test subject from 1 to 30
+ 
 tBodyAcc.mean...X
   Mean Body Acceleration in the X direction for Test Subjects
+  
 tbodyAcc.mean...Y
   Mean Body Acceleration in the Y direction for Test Subjects
+  
 tbodyAcc.mean...Z
   Mean Body Acceleration in the Z direction for Test Subjects
+  
 tGravityAcc.mean...X
   Mean Gravity Acceleration in the X direction for Test Subjects
 tGravityAcc.mean...Y
